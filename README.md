@@ -35,7 +35,7 @@
 
 - 로또 당첨 결과 제공을 위한 공개 API  
 - **카카오 지도 API** (위치 확인 및 지도 서비스 제공 목적)  
-  👉 [카카오 개인정보처리방침](https://policy.kakao.com/privacy)
+  👉 [카카오 개인정보처리방침](https://www.kakao.com/policy/privacy)
 
 ---
 
